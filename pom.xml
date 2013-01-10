@@ -6,7 +6,7 @@
   <artifactId>greymatter85</artifactId>
   <version>SNAPSHOT</version>
   <packaging>war</packaging>
-  <name>greymatter85 Maven Webapp</name>
+  <name>greymatter85 Maven Webapp edited</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
